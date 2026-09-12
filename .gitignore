@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Test artifacts & local logs
+test-results-earth/
+*.log
+world-abdullah/
+
+# System & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
